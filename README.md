@@ -21,9 +21,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
  Features
-Search and watch movies: users can search for movies by title and can watch them easily
-Genre-wise display: movies can be sorted by genre
-Trending Movies: displays a section for trending movies
-Movies Section: displays a section for upcoming movies
-Movie Details: users can view detailed information about each movie
-Series Section: displays a section for upcoming movies
+1.Search and watch movies: users can search for movies by title and can watch them easily
+2.Genre-wise display: movies can be sorted by genre
+3.Trending Movies: displays a section for trending movies
+4.Movies Section: displays a section for upcoming movies
+5.Movie Details: users can view detailed information about each movie
+6.Series Section: displays a section for upcoming movies
